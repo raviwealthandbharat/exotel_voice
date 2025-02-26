@@ -7,7 +7,7 @@ EXOTEL_API_URL = f'https://api.exotel.com/v1/Accounts/{EXOTEL_SID}/Calls.json'
 
 to_number = '+918601312209'
 
-url = 'https://yourserver.com/voice_message.xml'  
+url = 'https://raviwealthandbharat.github.io/exotel_voice/voice_message.xml'  
 
 data = {
     'To': to_number,  
